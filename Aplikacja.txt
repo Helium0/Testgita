@@ -1,5 +1,9 @@
 Git status
 
 
+
 Logowanie Google
 podaj email gmail
+
+Logowanie Microsoft
+Podaj nazwe uzytkownika Microsoft
