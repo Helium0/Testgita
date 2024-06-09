@@ -1,1 +1,5 @@
 Git status
+
+
+Logowanie Google
+podaj email gmail
