@@ -1,1 +1,4 @@
 Git status
+
+Logowanie Microsoft
+Podaj nazwe uzytkownika Microsoft
