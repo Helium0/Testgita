@@ -7,3 +7,5 @@ podaj email gmail
 
 Logowanie Microsoft
 Podaj nazwe uzytkownika Microsoft
+
+Przypomnij haslo
